@@ -1,10 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
+import Navbar from './components/Navbar';
+
 
 
 function App() {
   return (
-    <h1>pagina inicio</h1>
+<Navbar/>
   );
 }
 
